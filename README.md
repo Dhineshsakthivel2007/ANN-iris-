@@ -1,4 +1,8 @@
-🌸 Iris Species Predictor
+# 🌸 Iris Species Predictor
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://2mmhslrv6nxdsw7xbkjbxk.streamlit.app/)
+
+Try it now: [https://2mmhslrv6nxdsw7xbkjbxk.streamlit.app/](https://2mmhslrv6nxdsw7xbkjbxk.streamlit.app/)
 
 An interactive web application that predicts Iris flower species using a pre-trained Artificial Neural Network (ANN) model.
 Built with TensorFlow and deployed through Streamlit, the app provides accurate, real-time predictions through a clean and intuitive user interface.
